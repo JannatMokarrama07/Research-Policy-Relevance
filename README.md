@@ -19,7 +19,7 @@ known approach to measuring the impact of research on society
  In this paper, we examined the <b>scale of contextual relevance</b> of youth-focused research in the referenced US policy documents using natural language processing techniques, state-of-the-art <b> pre-trained Large Language Models (LLMs)</b>, and <b> statistical analysis</b>. Our experiments and analysis concluded that <i> youth-related research articles that get US policy citations are mostly relevant to the citing policy documents. </i> </p>
  
 
-<b>IEEE Explorer</b>: https://doi.org/10.1109/BigData62323.2024.10825004\
+<b>IEEE Explorer</b>: https://doi.org/10.1109/BigData62323.2024.10825004 \
 <b>Arxiv</b>: https://doi.org/10.48550/arXiv.2503.04977
 
 ## 📄 License
