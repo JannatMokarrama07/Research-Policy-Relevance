@@ -16,13 +16,13 @@ known approach to measuring the impact of research on society
  documents. </p>
 
 <p align="justify">
- In this paper, we examined the scale of contextual
- relevance of youth-focused research in the referenced US policy
+ In this paper, we examined the **scale of contextual
+ relevance** of youth-focused research in the referenced US policy
  documents using natural language processing techniques, state
-of-the-art pre-trained Large Language Models (LLMs), and
- statistical analysis. Our experiments and analysis concluded that
- youth-related research articles that get US policy citations are
- mostly relevant to the citing policy documents. </p>
+of-the-art **pre-trained Large Language Models** (LLMs), and
+ **statistical analysis**. Our experiments and analysis concluded that
+ _youth-related research articles that get US policy citations are
+ mostly relevant to the citing policy documents._ </p>
  
 
 ## 📄 License
